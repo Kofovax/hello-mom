@@ -1,0 +1,13 @@
+h1 {
+    font-size: 40px;
+    color: blue;
+}
+
+.text {
+    margin: 30px;
+    color: aquamarine;
+}
+
+.output {
+    color: red;
+}
